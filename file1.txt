@@ -1,2 +1,3 @@
 file1 created
 2nd line for file1
+3rd line in file1
